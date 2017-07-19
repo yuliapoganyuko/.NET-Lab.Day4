@@ -1,4 +1,4 @@
-#.NET Lab Day 4 Plan
+# .NET Lab Day 4 Plan
 
 1. Generics and Collections
     - Generics (general info)
